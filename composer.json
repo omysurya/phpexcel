@@ -1,8 +1,8 @@
 {
-    "name": "phpoffice/phpexcel",
-    "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine with compatible php 7.4",
+    "name": "omysurya/phpexcel",
+    "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP. Forke from @maatwebsite/excel:v2.1.30 and make compatible for PHP 7.4",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
-    "homepage": "https://github.com/PHPOffice/PHPExcel",
+    "homepage": "https://github.com/omysurya/phpexcel.git",
     "type": "library",
     "license": "LGPL-2.1",
     "authors": [
