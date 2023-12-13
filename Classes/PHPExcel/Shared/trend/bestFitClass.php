@@ -1,4 +1,5 @@
 <?php
+namespace PHPExcel\Shared\trend;
 
 /**
  * PHPExcel_Best_Fit
