@@ -43,6 +43,8 @@ Installation instructions
 Installation is quite easy: copy the contents of the Classes folder to any location
 in your application required.
 
+please copy & replace phpexcel folder to vendor folder in your project folder
+
 Example:
 
 If your web root folder is /var/www/ you may want to create a subfolder called

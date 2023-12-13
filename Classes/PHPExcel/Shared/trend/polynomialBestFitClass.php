@@ -1,7 +1,7 @@
 <?php
-
-require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php';
-require_once PHPEXCEL_ROOT . 'PHPExcel/Shared/JAMA/Matrix.php';
+namespace PHPExcel\Shared\trend;
+use PHPExcel\Shared\trend\PHPExcel_Best_Fit;
+use PHPExcel_Shared_JAMA_Matrix;
 
 /**
  * PHPExcel_Polynomial_Best_Fit

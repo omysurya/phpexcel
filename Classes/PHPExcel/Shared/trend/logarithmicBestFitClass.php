@@ -1,7 +1,6 @@
 <?php
-
-require_once(PHPEXCEL_ROOT . 'PHPExcel/Shared/trend/bestFitClass.php');
-
+namespace PHPExcel\Shared\trend;
+use PHPExcel\Shared\trend\PHPExcel_Best_Fit;
 /**
  * PHPExcel_Logarithmic_Best_Fit
  *
